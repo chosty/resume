@@ -14,9 +14,10 @@
 - 2016年からバックエンドエンジニアとして開発、運用を経験してきました。
 - 株式会社アカツキでは1年半ほど新規ソーシャルゲームの開発、運用に携わりました。
   - アジャイル、スクラムでの開発を採用しており、少人数からなるチームのバックエンドエンジニアとして要件定義からサービスリリース、運用までを担当しました。
-- 現職である合同会社DMM.comでは動画ECサービス、SVODサービスの開発、運用に携わりました。
+- 合同会社DMM.comでは動画ECサービス、SVODサービスの開発、運用に携わりました。
   - 入社後、DMM動画のプロダクト改善やグロース施策関連の設計、開発などを行いました。
-  - その後、DMM TVの設計、開発に参加、リリース後も機能開発や運用保守対応を行なっています。
+  - その後、DMM TVの設計、開発に参加、リリース後も機能開発や運用保守対応を行ないました。
+- 現職であるLayerXでは三井物産デジタルアセットマネジメントに出向し、資産運用会社での業務DXに取り組んでいます。
 
 ## 技術スタック
 
@@ -29,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat" alt="Golang">
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" alt="PHP">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
+  <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat" alt="TypeScript">
 </p>
 
 ### フレームワーク
@@ -37,6 +39,7 @@
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby%20on%20rails&logoColor=white&style=flat" alt="Ruby on Rails">
   <img src="https://img.shields.io/badge/-Zend%20Framework-1670FF?logo=zend%20framework&logoColor=white&style=flat" alt="Zend Framework">
   <img src="https://img.shields.io/badge/-Lumen-E74430?logo=lumen&logoColor=white&style=flat" alt="Lumen">
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
 </p>
 
 ### その他技術、ツールなど
@@ -64,7 +67,19 @@
 
 ## 職務経歴
 
-### 合同会社DMM.com (2018/01 - 現在)
+### 株式会社LayerX(2023/10 - 現在)
+
+#### アセットマネジメント業務のDX/ソフトウェア開発
+
+- プロジェクト規模
+  - スクラムチーム: 3人
+- 役割
+  - ソフトウェアエンジニア
+- 業務内容
+  - システム開発(Golang, TypeScript/React, AWS)
+  - ドメイン知識の取得とそれを基にした業務改善
+
+### 合同会社DMM.com (2018/01 - 2023/10)
 
 #### DMM TVの開発、運用
 
